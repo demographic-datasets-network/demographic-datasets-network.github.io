@@ -20,6 +20,8 @@ If you would like to contribute or make suggestions please contact irina at: iri
 
 [NZ SA2 Population Totals](https://raw.githubusercontent.com/demographic-datasets-network/demographic-datasets-network.github.io/main/datasets/totals/NZ_ERPs_1996-2020_2020geog.csv)
 
+<a id="raw-url" href="https://raw.githubusercontent.com/demographic-datasets-network/demographic-datasets-network.github.io/main/datasets/totals/NZ_ERPs_1996-2020_2020geog.csv">NZ SA2 Population Totals</a>
+
 [Aus SA2 Population Totals](https://github.com/demographic-datasets-network/demographic-datasets-network.github.io/blob/main/datasets/totals/Aus_ERPs_SA2_ASGS2011_1991-2016_totals.csv)
 
 [MetaData](https://github.com/demographic-datasets-network/demographic-datasets-network.github.io/blob/main/datasets/totals/SmallAreaDatasets_info.csv)
