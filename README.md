@@ -18,10 +18,11 @@ If you would like to contribute or make suggestions please contact irina at: iri
 
 ## Small Area Total Population Datasets
 
-[NZ SA2 Population Totals](https://raw.githubusercontent.com/demographic-datasets-network/demographic-datasets-network.github.io/main/datasets/totals/NZ_ERPs_1996-2020_2020geog.csv)
+| Country | Area Type | Number | Mean (latest) | Frequency | Years | Notes |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+|<a href="/datasets/totals/Aus_ERPs_SA2_ASGS2011_1991-2016_totals.csv" download="Aus_ERPs_SA2_ASGS2011_1991-2016_totals.csv">Australia</a>|SA2|2214|10926|Yearly|1991-2016| |
+|<a href="/datasets/totals/NZ_ERPs_1996-2020_2020geog.csv" download="NZ_ERPs_1996-2020_2020geog.csv">New Zealand</a>|SA2|2255|2255|Yearly|1996-2020|rounded|
 
-<a href="/datasets/totals/NZ_ERPs_1996-2020_2020geog.csv" download="NZ_ERPs_1996-2020_2020geog.csv">NZ SA2 Population Totals</a>
 
-[Aus SA2 Population Totals](https://github.com/demographic-datasets-network/demographic-datasets-network.github.io/blob/main/datasets/totals/Aus_ERPs_SA2_ASGS2011_1991-2016_totals.csv)
 
-[MetaData](https://github.com/demographic-datasets-network/demographic-datasets-network.github.io/blob/main/datasets/totals/SmallAreaDatasets_info.csv)
+<a href="/datasets/totals/SmallAreaDatasets_info.csv" download="SmallAreaDatasets_info.csv"> Download Metadata</a>
