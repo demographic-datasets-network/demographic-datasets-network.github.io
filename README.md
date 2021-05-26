@@ -9,11 +9,11 @@ The purpose of this repository  is to support the:
 We **define small area** as datasets where _most_ of the time series are for areas with total populations <100,000  or
 spatially distributed data with a resolution of 100m2 at the equator (or better).  
 
-To make these datasets as accessible as possible it is provided **in csv format**.
+To make these datasets as accessible as possible, files are provided in **csv format**.
 
 We invite demographers to **contribute to this repo** and to make suggestions on how to improve the way that the data is organised.  
 
-If you would like to contribute or make suggestions please contact irina at: irina.grossman@unimelb.edu.au
+If you would like to contribute or make suggestions please **contact irina at: irina.grossman@unimelb.edu.au**
 
 
 ## Small Area Total Population Datasets
