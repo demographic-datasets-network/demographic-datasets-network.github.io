@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to the Repository for Small Area Datasets
 
-You can use the [editor on GitHub](https://github.com/demographic-datasets-network/demographic-datasets-network.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The purpose of this repository  is to support the:
+ - development and evaluation of small area **estimation** methods
+ - development and evaluation of small area **forecasting** methods
+ - the **researchers and practitioners** working in the small area field
+ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We **define small area** as datasets where _most_ of the time series are for areas with total populations <100,000  or
+spatially distributed data with a resolution of 100m2 at the equator (or better).  
 
-### Markdown
+To make these datasets as accessible as possible it is provided **in csv format**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We invite demographers to **contribute to this repo** and to make suggestions on how to improve the way that the data is organised.  
 
-```markdown
-Syntax highlighted code block
+If you would like to contribute or make suggestions please contact irina at: irina.grossman@unimelb.edu.au
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Small Area Total Population Datasets
 
-1. Numbered
-2. List
+[NZ SA2 Population Totals](https://github.com/demographic-datasets-network/demographic-datasets-network.github.io/blob/main/datasets/totals/NZ_ERPs_1996-2020_2020geog.csv)
 
-**Bold** and _Italic_ and `Code` text
+[Aus SA2 Population Totals](https://github.com/demographic-datasets-network/demographic-datasets-network.github.io/blob/main/datasets/totals/Aus_ERPs_SA2_ASGS2011_1991-2016_totals.csv)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/demographic-datasets-network/demographic-datasets-network.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[MetaData](https://github.com/demographic-datasets-network/demographic-datasets-network.github.io/blob/main/datasets/totals/SmallAreaDatasets_info.csv)
