@@ -18,7 +18,7 @@ If you would like to contribute or make suggestions please contact irina at: iri
 
 ## Small Area Total Population Datasets
 
-| Country | Area Type | Number | Mean (latest) | Frequency | Years | Notes |
+| Country | Area Type | N. Areas | Mean (latest) | Frequency | Years | Notes |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |<a href="/datasets/totals/Aus_ERPs_SA2_ASGS2011_1991-2016_totals.csv" download="Aus_ERPs_SA2_ASGS2011_1991-2016_totals.csv">Australia</a>|SA2|2214|10926|Yearly|1991-2016| |
 |<a href="/datasets/totals/NZ_ERPs_1996-2020_2020geog.csv" download="NZ_ERPs_1996-2020_2020geog.csv">New Zealand</a>|SA2|2255|2255|Yearly|1996-2020|rounded|
