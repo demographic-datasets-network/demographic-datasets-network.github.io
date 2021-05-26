@@ -18,7 +18,7 @@ If you would like to contribute or make suggestions please contact irina at: iri
 
 ## Small Area Total Population Datasets
 
-[NZ SA2 Population Totals](https://github.com/demographic-datasets-network/demographic-datasets-network.github.io/blob/main/datasets/totals/NZ_ERPs_1996-2020_2020geog.csv)
+[NZ SA2 Population Totals](https://raw.githubusercontent.com/demographic-datasets-network/demographic-datasets-network.github.io/main/datasets/totals/NZ_ERPs_1996-2020_2020geog.csv)
 
 [Aus SA2 Population Totals](https://github.com/demographic-datasets-network/demographic-datasets-network.github.io/blob/main/datasets/totals/Aus_ERPs_SA2_ASGS2011_1991-2016_totals.csv)
 
