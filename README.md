@@ -3,7 +3,7 @@
 The purpose of this repository  is to support the:
  - development and evaluation of small area **estimation** methods
  - development and evaluation of small area **forecasting** methods
- - the **researchers and practitioners** working in the small area field
+ - **researchers and practitioners** working in the small area field
  
 
 We **define small area** as datasets where _most_ of the time series are for areas with total populations <100,000  or
