@@ -21,8 +21,7 @@ If you would like to contribute or make suggestions please contact Irina at: **i
 | Country | Area Type | N. Areas | Mean (latest) | Frequency | Years | Notes | MetaData |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |<a href="/data/Australia/Australia_SmallAreas.csv" download="Australia_SmallAreas.csv">Australia</a>|SA2|2214|10926|Yearly|1991-2016| |<a href="/data/Australia/Australia_meta.csv" download="Australia_meta.csv">download</a>|
-|<a href="/data/New Zealand/NewZealand_SmallAreas.csv" download="NewZealand_SmallAreas.csv">New Zealand</a>|SA2|2255|2255|Yearly|1996-2020|rounded|<a href="/data/New Zealand/NewZealand_meta.csv" download="NewZealand_meta.csv">New Zealand</a>|
+|<a href="/data/New Zealand/NewZealand_SmallAreas.csv" download="NewZealand_SmallAreas.csv">New Zealand</a>|SA2|2255|2255|Yearly|1996-2020|rounded, data includes regional and national ERPs|<a href="/data/New Zealand/NewZealand_meta.csv" download="NewZealand_meta.csv">download</a>|
+|<a href="/data/Canada/Canada_SmallAreas.csv" download="Canada_SmallAreas.csv">Canada</a>|Census Subdivision|5162|7406|Yearly|2001-2020| |<a href="/data/Canada/Canada_meta.csv" download="Canada_meta.csv">download</a>|
 
 
-
-<a href="/datasets/totals/SmallAreaDatasets_info.csv" download="SmallAreaDatasets_info.csv"> Download Metadata</a>
